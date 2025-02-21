@@ -1,0 +1,24 @@
+Solución de un problema:
+
+Cuando recien estaba entrando a la empresa a la que laboro actualmente cometí un error, ya que en el área donde yo laboro se dedica a importación y exportación aérea,
+cuando un vuelo trae importación de otros países, nuestra responsabilidad es hacer una transmisión ante la aduana SAT en un sistema llamado ¨cuscar web¨ esta transmisión
+debe ser efectuada con al menos 2 horas de anticipación antes de que un vuelo salga de su origen, de lo contrario esto genera una multa de parte de la Aduana, es una resposabilidad
+que es sometida al colaborador, en este caso me sucedió esto cuando recién estaba empezando, no sabía que solución tendría eso, hasta que me explicaron como podia solucionarlo,
+lo demostraré en un algoritmo.
+
+Algoritmo para la solución del problema:
+
+Paso 1: No efectuar la transmisión del vuelo que ya tenia demora en la misma.
+Paso 2: Revisar la información de los embarques que venian en dicho vuelo.
+Paso 3: Descargar esa misma información para cargarla en un vuelo que tendria horario mas tarde.
+Paso 4: Abrir programa Cuscar Web.
+Paso 5: Realizar la caratula del respectivo vuelo al que se cargará la información.
+Paso 6: Ingresar la informacion del embarque que tenía como destino Guatemala.
+Paso 7: Revisar que los datos sean los correctos.
+Paso 8: Efectuar la transmisión ante aduana.
+Paso 9: Esperar un lapso de 40 minutos para que la informacón sea llegada a la Aduana.
+Paso 10: Una vez pasado el tiempo, llevar la información de forma fisica a la Aduana, donde indica que la transmisión se realizo 2 horas antes en un vuelo diferente.
+Paso 11: Esperar el tiempo estimado de ese vuelo para continuar con los procedimientos según corresponde.
+Paso 12: tener el embarque físicamente.
+Paso 13: Esperar respuesta de Aduana donde no genere multa.
+Paso 14: una vez confirmado el dato, entregar el embarque al cliente.
